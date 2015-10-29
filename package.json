@@ -1,17 +1,16 @@
 {
   "name": "sircus-tools-clear",
-  "description": "Clear tools Module for Sircus.",
+  "description": "Module For CSS Clearfix.",
   "version": "0.0.2",
   "homepage": "http://sircus.github.io",
   "keywords": [
-    "scalabe",
+    "scalable",
     "design",
     "css",
-    "cssnext",
     "rwd"
   ],
   "author": {
-    "name": "Yasuyuki Enomoto",
+    "name": "blivesta",
     "url": "http://blivesta.com"
   },
   "license": "MIT",
